@@ -1,4 +1,7 @@
 const app = require('express')()
+const cors = require("cors")
+
+app.use(cors())
 app.use(require('./lib/routes/index'))
 
 app.set("port", process.env.PORT || 8080)
