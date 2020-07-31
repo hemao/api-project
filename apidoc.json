@@ -1,0 +1,8 @@
+{
+    "name": "COVID19 API documentation",
+    "version": "1.0.0",
+    "description": "COVID19 API",
+    
+    "title": "COVID API",
+    "url" : "http://localhost:3000"
+}
